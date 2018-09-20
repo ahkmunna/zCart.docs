@@ -1,19 +1,19 @@
-#Getting Started
+# Getting Started
 
-##Server Requirements
+## Server Requirements
 
-#Installation
+# Installation
 
-#Configuration
+# Configuration
 
-#System Settings
+# System Settings
 
-##Public Directory
+## Public Directory
 
-##Configuration Files
+## Configuration Files
 
-##Directory Permissions
+## Directory Permissions
 
-#Import Demo Data
+# Import Demo Data
 
-#Boost Performence
+# Boost Performence
