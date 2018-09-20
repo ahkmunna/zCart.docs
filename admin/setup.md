@@ -1,6 +1,6 @@
 # Getting Started
 
-## Server Requirements
+### Server Requirements
 
 # Installation
 
@@ -8,11 +8,11 @@
 
 # System Settings
 
-## Public Directory
+### Public Directory
 
-## Configuration Files
+### Configuration Files
 
-## Directory Permissions
+### Directory Permissions
 
 # Import Demo Data
 
